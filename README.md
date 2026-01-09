@@ -43,5 +43,5 @@ The project focuses on smooth animations, interactive elements, and immersive us
 ---
 
 ## 📸 Screenshots
-
+![ThirtySix Studio Preview](36image.png)
 
