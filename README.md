@@ -1,23 +1,47 @@
-ThirtySix Studio - Agency Portfolio
-ThirtySix Studio is a visually stunning agency portfolio website designed to showcase high-end creative work. The project focuses on immersive user experiences using advanced web technologies like React, GSAP, and Framer Motion.
+# ThirtySix Studio – Agency Portfolio
 
-🚀 Live Demo
-Check out the live site here
+ThirtySix Studio is a modern and visually rich agency portfolio website built to showcase high-end creative work.
+The project focuses on smooth animations, interactive elements, and immersive user experience using modern frontend tools.
 
-✨ Features
-Smooth Animations: Powered by GSAP and ScrollTrigger for a premium feel.
+---
 
-Modern UI: Built with Tailwind CSS for a sleek and responsive design.
+## 🚀 Live Demo
 
-Optimized Performance: Developed with Vite and React for lightning-fast loading.
+👉 **Live Site:** 
 
-Dynamic Content: Showcases projects and services with a focus on visual storytelling.
 
-🛠️ Tech Stack
-Frontend: React, Tailwind CSS
+---
 
-Animations: GSAP (GreenSock Animation Platform), Framer Motion
+## ✨ Features
 
-Bundler: Vite
+* **Smooth Animations** – Premium animations powered by GSAP and ScrollTrigger
+* **Modern UI** – Clean, responsive design using Tailwind CSS
+* **Optimized Performance** – Fast loading using React + Vite
 
-Deployment: Vercel
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* Tailwind CSS
+
+**Animations**
+
+* GSAP (GreenSock Animation Platform)
+* Framer Motion
+
+**Bundler**
+
+* Vite
+
+**Deployment**
+
+* Vercel
+
+---
+
+## 📸 Screenshots
+
+
