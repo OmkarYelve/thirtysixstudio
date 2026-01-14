@@ -8,7 +8,7 @@ The project focuses on smooth animations, interactive elements, and immersive us
 ## 🚀 Live Demo
 
 👉 **Live Site:** 
-
+https://thirtysixstudiosdemo.netlify.app/
 
 ---
 
@@ -42,6 +42,7 @@ The project focuses on smooth animations, interactive elements, and immersive us
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Videos
+![ThirtySix Studio Preview](36image.png)
 ![ThirtySix Studio Preview](36image.png)
 
