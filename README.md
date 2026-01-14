@@ -48,5 +48,5 @@ https://thirtysixstudiosdemo.netlify.app/
 
 ## 📸 Screenshots & Videos
 ![ThirtySix Studio Preview](36image.png)
-![ThirtySix Studio Preview](36.mp4)
+[![ThirtySix Studio Preview](36.mp4)](https://github.com/user-attachments/assets/b90d9a65-7d4f-433b-8d10-2837868fd88d)
 
