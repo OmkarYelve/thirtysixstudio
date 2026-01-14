@@ -1,7 +1,10 @@
 # ThirtySix Studio – Agency Portfolio
 
-ThirtySix Studio is a modern and visually rich agency portfolio website built to showcase high-end creative work.
-The project focuses on smooth animations, interactive elements, and immersive user experience using modern frontend tools.
+This project is a clone of the Thirty Six Studio website, built to practice and improve GSAP animations in a React environment.
+The main focus was experimenting with smooth transitions, scroll-based animations, and interactive motion effects using GSAP with React.
+
+This clone is not intended for commercial use—it was created purely for learning, experimentation, and animation practice.
+Through this project, I explored animation timing, performance optimization, and how GSAP integrates with modern React components.
 
 ---
 
@@ -26,7 +29,8 @@ https://thirtysixstudiosdemo.netlify.app/
 
 * React
 * Tailwind CSS
-
+* JavaScript
+ 
 **Animations**
 
 * GSAP (GreenSock Animation Platform)
@@ -44,5 +48,5 @@ https://thirtysixstudiosdemo.netlify.app/
 
 ## 📸 Screenshots & Videos
 ![ThirtySix Studio Preview](36image.png)
-![ThirtySix Studio Preview](36image.png)
+![ThirtySix Studio Preview](36.mp4)
 
